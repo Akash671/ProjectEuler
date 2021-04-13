@@ -31,7 +31,7 @@ void solve()
             }
         }
     }
-    cout<<b;
+    cout<<b<<endl;
 }
 
 int main()
@@ -41,7 +41,7 @@ int main()
     while(t--)
     {
         solve();
-        cout<<endl;
+       // cout<<endl;
     }
     return 0;
 }
