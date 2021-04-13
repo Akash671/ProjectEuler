@@ -14,7 +14,6 @@ int prime(long int n)
     }
     return 1;
 }
-
 void solve()
 {
     int c=1;
